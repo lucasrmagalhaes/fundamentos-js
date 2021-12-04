@@ -1,6 +1,6 @@
-### Fundamentos do JavaScript: Tipos, variáveis e funções
+<a href="https://cursos.alura.com.br/course/fundamentos-javascript-tipos-variaveis-funcoes/task/94080"><h3>Fundamentos do JavaScript: Tipos, variáveis e funções</h3></a>
 
-- Rodar o arquivo:
+- Rodar o arquivo JavaScript:
 ```js
 node nome-arquivo.js
 ```
