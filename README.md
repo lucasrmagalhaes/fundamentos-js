@@ -8,8 +8,9 @@ node nome-arquivo.js
 <a href="https://www.alura.com.br/artigos/formatando-numeros-no-javascript">Formatando números no JavaScript</a>
 <br>
 <a href="https://www.alura.com.br/artigos/ordenacao-de-numeros-no-javascript-nao-funciona">Ordenação de números no JavaScript não funciona?</a>
-
-<a href="https://cursos.alura.com.br/category/programacao/javascript-programacao">Programação: JavaScript</a>
-
+<br>
 <a href="https://cursos.alura.com.br/course/fundamentos-javascript-tipos-variaveis-funcoes/task/94101">Codificação de strings</a>
-
+<br>
+<a href="https://cursos.alura.com.br/course/fundamentos-javascript-tipos-variaveis-funcoes/task/94103">Trabalhando com strings</a>
+<br><hr>
+<a href="https://cursos.alura.com.br/category/programacao/javascript-programacao">Programação: JavaScript</a>
