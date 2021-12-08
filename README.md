@@ -32,5 +32,7 @@ node nome-arquivo.js
 <a href="https://cursos.alura.com.br/course/fundamentos-javascript-tipos-variaveis-funcoes/task/94138">Outros métodos da Console API</a>
 <br>
 <a href="https://cursos.alura.com.br/course/fundamentos-javascript-tipos-variaveis-funcoes/task/94142">Mais sobre operadores</a>
+<br>
+<a href="https://cursos.alura.com.br/course/fundamentos-javascript-tipos-variaveis-funcoes/task/94148">Mais sobre funções</a>
 <br><hr>
 <a href="https://cursos.alura.com.br/category/programacao/javascript-programacao">Programação: JavaScript</a>
