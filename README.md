@@ -34,5 +34,11 @@ node nome-arquivo.js
 <a href="https://cursos.alura.com.br/course/fundamentos-javascript-tipos-variaveis-funcoes/task/94142">Mais sobre operadores</a>
 <br>
 <a href="https://cursos.alura.com.br/course/fundamentos-javascript-tipos-variaveis-funcoes/task/94148">Mais sobre funções</a>
+<br>
+<a href="https://cursos.alura.com.br/course/fundamentos-javascript-tipos-variaveis-funcoes/task/94151">Tipos de funções</a>
+<br>
+<a href="https://cursos.alura.com.br/course/fundamentos-javascript-tipos-variaveis-funcoes/task/94154">Git e GitHub</a>
+<br><hr>
+<a href="https://github.com/alura-cursos/2206-fundamentos-js">#AluraJS</a>
 <br><hr>
 <a href="https://cursos.alura.com.br/category/programacao/javascript-programacao">Programação: JavaScript</a>
